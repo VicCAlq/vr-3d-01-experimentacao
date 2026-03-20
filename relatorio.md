@@ -1,8 +1,7 @@
 Anderson Túlio de Macedo
 Ítalo Luiz Silva de Lima
-João Philippe Lima Costa Geoffroy
-Júlia Caroliny Maciel de Almeida
 Pedro Alexsandro Carvalho França de Oliveira
+(o resto faltoukkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)
 
 # Relatório de experimentação
 Joguinho massa, mas sem VR é muito estranho (a tela fica "duplicada")
