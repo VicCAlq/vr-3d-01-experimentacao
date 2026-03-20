@@ -1,4 +1,4 @@
-# Relatório de experimentação (TIME 4 ~ Davi, Enzo, Hattus e Ricardo)
+# Relatório de experimentação (TIME 4 ~ Ariadne, Davi, Enzo, Hattus e Ricardo)
 
 ## Impressões do grupo sobre a jogabilidade
 
