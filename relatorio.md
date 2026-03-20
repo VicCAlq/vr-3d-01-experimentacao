@@ -14,10 +14,10 @@
 
 ## O que o grupo considera ser possível em jogos AR/VR que não funcionam em jogos normais
 
--jogar sem usar controle ou até mesmo as mãos, mecânicas mais imersivas e complexas que seriam ruins ou confusas de serem feitas com controle.
+- jogar sem usar controle ou até mesmo as mãos, mecânicas mais imersivas e complexas que seriam ruins ou confusas de serem feitas com controle.
 
 ## O que o grupo considera ser possível em jogos normais que não funcionariam em jogos AR/VR
 
--muito dinamismo e velocidade, como um dark souls por exemplo.
+- muito dinamismo e velocidade, como um dark souls por exemplo.
 
 
